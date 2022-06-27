@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
+    <CLASSES>
+      <root url="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/hexcolor-2.0.7" />
+      <root url="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/majascan-0.5.0" />
+      <root url="file://C:/src/flutter/.pub-cache/git/qr_code_scanner-0feca6f15042c279ff575c559a3430df917b623d" />
+      <root url="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_barcode_scanner-2.0.0" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/282689632/android.hexcolor.iml" filepath="$PROJECT_DIR$/.idea/modules/282689632/android.hexcolor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1252185668/android.majascan.iml" filepath="$PROJECT_DIR$/.idea/modules/-1252185668/android.majascan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/383664048/android.qr_code_scanner.iml" filepath="$PROJECT_DIR$/.idea/modules/383664048/android.qr_code_scanner.iml" />
+    </modules>
+  </component>
+</project>
